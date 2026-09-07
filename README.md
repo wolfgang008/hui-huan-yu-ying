@@ -86,8 +86,8 @@
 
 | 版本 | 适合谁 | 下载 |
 |:--|:--|:--:|
-| **最终优化版 · v1.1.2** | 推荐首次体验。优化了引导、节奏、关卡反馈、结局演出、字号层级、全屏适配与整体声音设计。 | [Windows x64 · 59 MB](downloads/回环余影-v1.1.2-最终优化版-Windows-x64.zip) |
-| **Vibe Jam 赛事原版** | 想体验 8 小时极限开发现场感，或对照作品演变过程的玩家。 | [Windows x64 · 43 MB](downloads/回环余影-VibeJam-8小时原版-Windows-x64.zip) |
+| **最终优化版 · v1.1.2** | 推荐首次体验。优化了引导、节奏、关卡反馈、结局演出、字号层级、全屏适配与整体声音设计。 | [Windows x64 · 59 MB](downloads/回环余影-v1.1.2-最终优化版-Windows-x64.zip?raw=1) |
+| **Vibe Jam 赛事原版** | 想体验 8 小时极限开发现场感，或对照作品演变过程的玩家。 | [Windows x64 · 43 MB](downloads/回环余影-VibeJam-8小时原版-Windows-x64.zip?raw=1) |
 
 下载后解压压缩包，运行其中的 `.exe` 文件即可。Windows 首次打开时如出现系统安全提示，请确认文件来源后选择继续运行。
 
@@ -109,6 +109,6 @@
 
 过去的你，正在等现在的你。
 
-[在线体验](https://hui.mixi.qzz.io) · [下载最终优化版](downloads/回环余影-v1.1.2-最终优化版-Windows-x64.zip) · [下载赛事原版](downloads/回环余影-VibeJam-8小时原版-Windows-x64.zip)
+[在线体验](https://hui.mixi.qzz.io) · [下载最终优化版](downloads/回环余影-v1.1.2-最终优化版-Windows-x64.zip?raw=1) · [下载赛事原版](downloads/回环余影-VibeJam-8小时原版-Windows-x64.zip?raw=1)
 
 </div>
