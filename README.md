@@ -20,7 +20,7 @@
 
 ## 一场与「过去的自己」合作的记忆谜题
 
-《回环余影》是一款以时间循环与行动残影为核心的短篇解谜游戏。
+《回环余影》是一款以时间循环与行动残影为核心、流程约 20–25 分钟的短篇解谜游戏。
 
 你走过的路线、停留的时机、触发过的机关，都会在下一轮成为可见的“残影”。它们精确重演过去，而此刻的你必须与这些旧日行动配合：让另一个自己守住开关、错开门扉、留下余辉，最终走出一条只有跨越多次循环才能完成的路。
 
@@ -43,11 +43,11 @@
 <table>
   <tr>
     <td width="50%"><img src="assets/screenshots/02-echo.png" alt="行动残影与双端共鸣" /></td>
-    <td width="50%"><img src="assets/screenshots/03-level3.png" alt="第三关余辉区域" /></td>
+    <td width="50%"><img src="assets/screenshots/03-level3.png" alt="残影容量与错拍机关" /></td>
   </tr>
   <tr>
     <td align="center"><sub>过去的路线，在下一轮成为同伴</sub></td>
-    <td align="center"><sub>借残影留下的余辉，穿过侵蚀区域</sub></td>
+    <td align="center"><sub>在有限的残影容量里安排一整段因果</sub></td>
   </tr>
   <tr>
     <td width="50%"><img src="assets/screenshots/04-reverse.png" alt="倒序回返阶段" /></td>
